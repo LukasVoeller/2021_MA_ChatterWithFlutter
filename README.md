@@ -1,4 +1,4 @@
-# flutter_app
+# MA_2020_ChatterWithFlutter
 
 A new Flutter application.
 
